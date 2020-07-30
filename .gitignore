@@ -1,0 +1,9 @@
+.DS_Store
+
+*.xcworkspace
+!default.xcworkspace
+
+xcuserdata/
+*.xcuserstate
+
+UserInterfaceState.xcuserstate
